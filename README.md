@@ -1,1 +1,4 @@
-# Angular-Event-Organizer
+# taskManager
+Task Manager using AngularJS
+
+![Screenshot](screenshot.png)
